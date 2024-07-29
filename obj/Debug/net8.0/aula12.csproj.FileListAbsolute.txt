@@ -1,0 +1,14 @@
+C:\Users\dracu\OneDrive\Imagens\Documentos\aulac#\aula12\aula12\aula12\bin\Debug\net8.0\aula12.exe
+C:\Users\dracu\OneDrive\Imagens\Documentos\aulac#\aula12\aula12\aula12\bin\Debug\net8.0\aula12.deps.json
+C:\Users\dracu\OneDrive\Imagens\Documentos\aulac#\aula12\aula12\aula12\bin\Debug\net8.0\aula12.runtimeconfig.json
+C:\Users\dracu\OneDrive\Imagens\Documentos\aulac#\aula12\aula12\aula12\bin\Debug\net8.0\aula12.dll
+C:\Users\dracu\OneDrive\Imagens\Documentos\aulac#\aula12\aula12\aula12\bin\Debug\net8.0\aula12.pdb
+C:\Users\dracu\OneDrive\Imagens\Documentos\aulac#\aula12\aula12\aula12\obj\Debug\net8.0\aula12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dracu\OneDrive\Imagens\Documentos\aulac#\aula12\aula12\aula12\obj\Debug\net8.0\aula12.AssemblyInfoInputs.cache
+C:\Users\dracu\OneDrive\Imagens\Documentos\aulac#\aula12\aula12\aula12\obj\Debug\net8.0\aula12.AssemblyInfo.cs
+C:\Users\dracu\OneDrive\Imagens\Documentos\aulac#\aula12\aula12\aula12\obj\Debug\net8.0\aula12.csproj.CoreCompileInputs.cache
+C:\Users\dracu\OneDrive\Imagens\Documentos\aulac#\aula12\aula12\aula12\obj\Debug\net8.0\aula12.dll
+C:\Users\dracu\OneDrive\Imagens\Documentos\aulac#\aula12\aula12\aula12\obj\Debug\net8.0\refint\aula12.dll
+C:\Users\dracu\OneDrive\Imagens\Documentos\aulac#\aula12\aula12\aula12\obj\Debug\net8.0\aula12.pdb
+C:\Users\dracu\OneDrive\Imagens\Documentos\aulac#\aula12\aula12\aula12\obj\Debug\net8.0\aula12.genruntimeconfig.cache
+C:\Users\dracu\OneDrive\Imagens\Documentos\aulac#\aula12\aula12\aula12\obj\Debug\net8.0\ref\aula12.dll
