@@ -1,6 +1,6 @@
 ﻿using System;
 
-class aula12
+class nota
 {
     static void Main()
     {
